@@ -32,7 +32,6 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
             other actions that would work:
                 action: consume electricity
                 action: burn out and destroy filament.
-
         
  3) write out how you'd call that action in pseudo code, in the space after the plain-english action
  
@@ -52,85 +51,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: husky
+//  action 1: the husky pulls a sled
+husky.pullSled();
+//  action 2: the husky runs
+husky.run();
+//  action 3: the husky falls asleep
+husky.sleep();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: amplifier
+//  action 1: the amplifier's tone is adjusted
+amplifier.changeTone();
+//  action 2: the amplifier reads the signal input
+amplifier.readSignalInput();
+//  action 3: the amplifier boosts signal input
+amplifier.boostSignal();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: flower
+//  action 1: the flower ingrains it's roots into the ground
+flower.root();
+//  action 2: the flower grows
+flower.grow();
+//  action 3: the flower dies
+flower.die();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: water
+//  action 1: the water freezes
+water.freeze();
+//  action 2: the water leaks from it's container
+water.leak();
+//  action 3: the water drains
+water.drain();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: mouth
+//  action 1: they smiled 
+mouth.smile();
+//  action 2: they frowned 
+mouth.frown();
+//  action 3: they opened their mouth
+mouth.open();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: fan
+//  action 1: the fan blows air
+fan.blowAir();
+//  action 2: the fan blows harder
+fan.increasedAirFlow();
+//  action 3: the fan draws in air from outside
+fan.drawInAir();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bird
+//  action 1: the bird takes flight
+bird.fly();
+//  action 2: the bird chirps
+bird.chirp();
+//  action 3: the bird laid an egg
+bird.layEgg();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: sun    
+//  action 1: the sun rises
+sun.rise();
+//  action 2: the sun sets
+sun.set();
+//  action 3: the sun emits heat
+sun.emitHeat();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: gear
+//  action 1: the gear turns clockwise
+gear.rotateClockwise();
+//  action 2: the gear turns counter-clockwise
+gear.rotateCounterClockwise();
+//  action 3: the gear locks in place
+gear.lock();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: boat
+//  action 1: the boat floats in the water
+boat.floats();
+//  action 2: the boat is moored at the dock
+boat.moors();
+//  action 3: the boat releases it's sail
+boat.sailRelease();
 
 
 #endif
