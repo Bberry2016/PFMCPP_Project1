@@ -100,13 +100,13 @@ fan.increasedAirFlow();
 //  action 3: the fan draws in air from outside
 fan.drawInAir();
 //  7)
-//  Noun: bird
-//  action 1: the bird takes flight
-bird.fly();
-//  action 2: the bird chirps
-bird.chirp();
-//  action 3: the bird laid an egg
-bird.layEgg();
+//  Noun: baseball player
+//  action 1: the baseball player throws a ball
+baseballPlayer.throwBall();
+//  action 2: the baseball player catches the ball
+baseballPlayer.catchBall();
+//  action 3: the baseball player hits the ball
+baseballPlayer.hitBall();
 //  8)
 //  Noun: sun    
 //  action 1: the sun rises
